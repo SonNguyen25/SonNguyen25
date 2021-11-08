@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 😄 Pronouns: he/him\
+- 😄 Pronouns: he/him \
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SonNguyen25&count_private=true&show_icons=true&theme=synthwave)\
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SonNguyen25)

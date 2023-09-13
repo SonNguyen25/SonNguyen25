@@ -113,14 +113,14 @@ I specialize in the use of Java in Software Development and Python in Data Scien
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Alien-Shooter&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=SonNguyen25&repo=VinBigData-Fraud-Detection&theme=tokyonight" />
 
 </a> 
 <a href="https://github.com/SonNguyen25/SpotifyProject---Identifying-Trends-in-Spotify">
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Alien-Shooter&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=SonNguyen25&repo=SpotifyProject---Identifying-Trends-in-Spotify&theme=tokyonight" />
 
 </a> 
 

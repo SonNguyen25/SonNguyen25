@@ -98,11 +98,11 @@ I specialize in the use of Java in Software Development and Python in Data Scien
 </a> 
 
 ### Machine Learning
-<a href="https://github.com/DXL64/VinBigData-Fraud-Detection">
+<a href="https://github.com/SonNguyen25/VinBigData-Fraud-Detection">
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DXL64&repo=VinBigData-Fraud-Detection&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=SonNguyen25&repo=VinBigData-Fraud-Detection&theme=tokyonight" />
 
 </a> 
 <a href="https://github.com/SonNguyen25/Identifying-Trends-in-Spotify">

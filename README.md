@@ -118,6 +118,7 @@ I specialize in the use of Java in Software Development and Python in Data Scien
 ## Assignments 🌱
 - Web Crawler
 - Distributed, Replicated Key-Value Store utilizing Raft Consensus Algorithm
+- Marbles Solitaire Game using MVC Design and Design Patterns
 - Flood it game - utilizing Union Find Kruskal's Algorithm
 
 

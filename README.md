@@ -26,7 +26,7 @@ I specialize in the use of Java in Software Development and Python in Data Scien
 
 
 
-## Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
+## Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 
 <p align="center">
   <a href="https://www.python.org" target="_blank">
@@ -79,7 +79,7 @@ I specialize in the use of Java in Software Development and Python in Data Scien
   </a>
 </p>
 
-## Projects
+## Projects 🔭
 ### Software
 <a href="https://github.com/SonNguyen25/ImageProcessingApplication">
 
@@ -114,6 +114,11 @@ I specialize in the use of Java in Software Development and Python in Data Scien
 </a> 
 
 ### Computer Vision
+
+## Assignments 🌱
+- Web Scraper
+- Flood it game - utilizing Union Find Kruskal's Algorithm
+
 
 ## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
 

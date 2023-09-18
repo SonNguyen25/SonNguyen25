@@ -116,7 +116,7 @@ I specialize in the use of Java in Software Development and Python in Data Scien
 ### Computer Vision
 
 ## Assignments 🌱
-- Web Scraper
+- Web Crawler
 - Distributed, Replicated Key-Value Store utilizing Raft Consensus Algorithm
 - Flood it game - utilizing Union Find Kruskal's Algorithm
 

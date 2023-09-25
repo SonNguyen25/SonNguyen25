@@ -114,6 +114,14 @@ I specialize in the use of Java in Software Development and Python in Data Scien
 </a> 
 
 ### Computer Vision
+</a> 
+<a href="https://github.com/SonNguyen25/mot_yolov8/">
+
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=SonNguyen25&repo=mot_yolov8&theme=tokyonight" />
+
+</a> 
 
 ## Assignments 🌱
 - Web Crawler

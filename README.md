@@ -126,7 +126,7 @@ I specialize in the use of Java in Software Development and Python in Data Scien
 - Web Crawler
 - Distributed, Replicated Key-Value Store utilizing Raft Consensus Algorithm
 - Marbles Solitaire Game using MVC Design and Design Patterns
-- Flood it game - utilizing Union Find Kruskal's Algorithm
+- Maze Generator - utilizing Union Find Kruskal's Algorithm
 
 
 ## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>

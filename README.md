@@ -121,11 +121,20 @@ I specialize in the use of Java in Software Development and Python in Data Scien
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=SonNguyen25&repo=mot_yolov8&theme=tokyonight" />
 
 </a> 
+### Natural Language Processing
+<a href="https://github.com/SonNguyen25/BloomCausalLM-PromptTuning">
+	
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=SonNguyen25&repo=mot_yolov8&theme=tokyonight" />
+
+</a>
 
 ## Assignments 🌱
 - Web Crawler
 - Distributed, Replicated Key-Value Store utilizing Raft Consensus Algorithm
 - Marbles Solitaire Game using MVC Design and Design Patterns
+- Image Processing Application 
 - Maze Generator - utilizing Union Find Kruskal's Algorithm
 
 

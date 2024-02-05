@@ -103,7 +103,7 @@ I specialize in the use of Java in Software Development and Python in Data Scien
 
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=SonNguyen25&repo=DistributedKeyValueDatabase&theme=tokyonight" />
 
-</a> 
+</a>  
 
 ### Machine Learning
 <a href="https://github.com/SonNguyen25/VinBigData-Fraud-Detection">

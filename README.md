@@ -135,7 +135,6 @@ I specialize in the use of Java in Software Development and Python in Data Scien
 - Web Crawler
 - Distributed, Replicated Key-Value Store utilizing Raft Consensus Algorithm
 - Marbles Solitaire Game using MVC Design and Design Patterns
-- Image Processing Application 
 - Maze Generator - utilizing Union Find Kruskal's Algorithm
 
 

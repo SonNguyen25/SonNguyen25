@@ -21,7 +21,7 @@
 <p >I am a third-year computer science major at Northeastern University, with a passion for leveraging technology to develop meaningful solutions for community challenges. My drive to identify and address existing issues in my surroundings has inspired me to harness my skills and knowledge to address real-world problems in the software industry.
 
 I am always eager to engage in discussions about emerging opportunities and the latest technological advancements. Please feel free to contact me at your convenience.
-I specialize in the use of Java in Software Development and Python in Data Science.
+I specialize in the use of Java in Software Development and Python in AI/Data Science.
 </p>
 
 

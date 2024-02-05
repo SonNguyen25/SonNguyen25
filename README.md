@@ -101,7 +101,7 @@ I specialize in the use of Java in Software Development and Python in AI/Data Sc
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-  <img align="center" src="https://github-readme-stats.sonnguyen25.vercel.app/api/pin/?username=SonNguyen25&repo=DistributedKeyValueDatabase&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=SonNguyen25&repo=DistributedKeyValueDatabase&theme=tokyonight" />
 
 </a>  
 

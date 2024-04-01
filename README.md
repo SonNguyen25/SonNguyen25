@@ -81,6 +81,14 @@ I specialize in the use of Java in Software Development and Python in AI/Data Sc
 
 ## Projects 🔭
 ### Software
+<a href="https://github.com/SonNguyen25/ai4career">
+
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=SonNguyen25&repo=ai4career&theme=tokyonight" />
+
+</a>  
+
 <a href="https://github.com/SonNguyen25/ImageProcessingApplication">
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->

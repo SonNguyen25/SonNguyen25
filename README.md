@@ -164,7 +164,7 @@ I specialize in the use of Java in Software Development and Python in AI/Data Sc
     <a href="https://github.com/SonNguyen25/github-readme-stats"><img alt="SonNguyen25's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SonNguyen25&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SonNguyen25&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="SonNguyen25" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonNguyen25&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide=jupyter%20notebook" alt="SonNguyen25" height="192px"/>
   <br/>
   </p>
 </details>

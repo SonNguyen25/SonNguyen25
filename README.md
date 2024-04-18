@@ -21,7 +21,7 @@
 <p >I am a fourth-year computer science major at Northeastern University, with a passion for leveraging technology to develop meaningful solutions for community challenges. My drive to identify and address existing issues in my surroundings has inspired me to harness my skills and knowledge to address real-world problems in the software industry.
 
 I am always eager to engage in discussions about emerging opportunities and the latest technological advancements. Please feel free to contact me at your convenience.
-I specialize in the use of Java/JavaScript/TypeScript in Software Development and Python in Backend and AI/Data Science.
+I specialize in the use of Java in Software Development and Python in AI/Data Science.
 
 </p>
 
@@ -102,6 +102,14 @@ I specialize in the use of Java/JavaScript/TypeScript in Software Development an
   </a>
   <a href="https://www.jetbrains.com/" target="_blank">
     <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="jetbrains" />
+  </a>
+  <!-- Windows -->
+  <a href="https://www.microsoft.com/windows/" target="_blank">
+    <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  </a>
+  <!-- Linux -->
+  <a href="https://www.linux.org/" target="_blank">
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
   </a>
 </p>
 

@@ -105,6 +105,7 @@ I specialize in the use of Java in Software Development and Python in AI/Data Sc
 
 </a> 
 
+
 <a href="https://github.com/SonNguyen25/DistributedKeyValueDatabase">
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -112,7 +113,20 @@ I specialize in the use of Java in Software Development and Python in AI/Data Sc
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=SonNguyen25&repo=DistributedKeyValueDatabase&theme=tokyonight" />
 
 </a>  
+<a href="https://github.com/SonNguyen25/kanbas-react-web-app/tree/a6">
 
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=SonNguyen25&repo=kanbas-react-web-app&theme=tokyonight" />
+
+</a>  
+<a href="https://github.com/SonNguyen25/kanbas-node-server-app/tree/a6">
+
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=SonNguyen25&repo=kanbas-node-server-app&theme=tokyonight" />
+
+</a>  
 ### Machine Learning
 <a href="https://github.com/SonNguyen25/VinBigData-Fraud-Detection">
 

@@ -45,7 +45,7 @@ I specialize in the use of Java in Software Development and Python in AI/Data Sc
   </a>
   <!-- ReactJS -->
   <a href="https://reactjs.org/" target="_blank">
-    <img alt="ReactJS" src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+    <img alt="ReactJS" src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=white">
   </a>
   <!-- ExpressJS -->
   <a href="https://expressjs.com/" target="_blank">
@@ -55,7 +55,8 @@ I specialize in the use of Java in Software Development and Python in AI/Data Sc
   <a href="https://nodejs.org/en/" target="_blank">
     <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white">
   </a>
-	<a href="https://firebase.google.com/" target="_blank">
+	<!-- Firebase -->
+  <a href="https://firebase.google.com/" target="_blank">
     <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
   </a>
 	<!-- MongoDB -->

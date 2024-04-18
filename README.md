@@ -38,6 +38,9 @@ I specialize in the use of Java in Software Development and Python in AI/Data Sc
   <a href="" target="_blank">
     <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
   </a>
+	<a href="" target="_blank">
+    <img alt="JavaScript" src="https://img.shields.io/badge/javascript%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+  </a>
   <a href="" target="_blank">
     <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
   </a>

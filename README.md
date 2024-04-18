@@ -40,6 +40,14 @@ I specialize in the use of Java in Software Development and Python in AI/Data Sc
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
   </a>
+  <!-- HTML -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  </a>
+  <!-- CSS -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  </a>
   <a href="" target="_blank">
     <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
   </a>
@@ -102,6 +110,10 @@ I specialize in the use of Java in Software Development and Python in AI/Data Sc
   </a>
   <a href="https://www.jetbrains.com/" target="_blank">
     <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="jetbrains" />
+  </a>
+  <!-- Jira -->
+  <a href="https://www.atlassian.com/software/jira" target="_blank">
+    <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
   </a>
   <!-- Windows -->
   <a href="https://www.microsoft.com/windows/" target="_blank">

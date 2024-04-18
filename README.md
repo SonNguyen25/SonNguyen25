@@ -1,4 +1,5 @@
-## Hi, I’m Son Nguyen <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
+## Hi, I’m Son Nguyen <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
+
 <p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+an+aspiring+Software+Engineer;I'm+also+studying+Computer+Science" /></a>
 </p>
@@ -17,16 +18,14 @@
   </a>  
   </p>
 
-
 <p >I am a fourth-year computer science major at Northeastern University, with a passion for leveraging technology to develop meaningful solutions for community challenges. My drive to identify and address existing issues in my surroundings has inspired me to harness my skills and knowledge to address real-world problems in the software industry.
 
 I am always eager to engage in discussions about emerging opportunities and the latest technological advancements. Please feel free to contact me at your convenience.
 I specialize in the use of Java in Software Development and Python in AI/Data Science.
+
 </p>
 
-
-
-## Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
+## Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
 <p align="center">
   <a href="https://www.python.org" target="_blank">
@@ -44,8 +43,20 @@ I specialize in the use of Java in Software Development and Python in AI/Data Sc
   <a href="" target="_blank">
     <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
   </a>
+  <!-- ReactJS -->
+  <a href="https://reactjs.org/" target="_blank">
+    <img alt="ReactJS" src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  </a>
+  <!-- ExpressJS -->
+  <a href="https://expressjs.com/" target="_blank">
+    <img alt="ExpressJS" src="https://img.shields.io/badge/ExpressJS-000000?style=for-the-badge&logo=express&logoColor=white">
+  </a>
+  <!-- NodeJS -->
+  <a href="https://nodejs.org/en/" target="_blank">
+    <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white">
+  </a>
 	<a href="https://firebase.google.com/" target="_blank">
-    <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+    <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
   </a>
 	<!-- MongoDB -->
   <a href="https://www.mongodb.com/" target="_blank">
@@ -72,7 +83,6 @@ I specialize in the use of Java in Software Development and Python in AI/Data Sc
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
   </a>
 
-
    <a href="https://opencv.org/" target="_blank">
     <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">
   </a>
@@ -95,14 +105,16 @@ I specialize in the use of Java in Software Development and Python in AI/Data Sc
 </p>
 
 ## Projects 🔭
+
 ### Software
+
 <a href="https://github.com/SonNguyen25/ai4career">
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=SonNguyen25&repo=ai4career&theme=tokyonight" />
 
-</a>  
+</a>
 
 <a href="https://github.com/SonNguyen25/ImageProcessingApplication">
 
@@ -110,7 +122,7 @@ I specialize in the use of Java in Software Development and Python in AI/Data Sc
 
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=SonNguyen25&repo=ImageProcessingApplication&theme=tokyonight" />
 
-</a>  
+</a>
 
 <a href="https://github.com/SonNguyen25/EquipmentManagementSystem">
 
@@ -118,8 +130,7 @@ I specialize in the use of Java in Software Development and Python in AI/Data Sc
 
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=SonNguyen25&repo=EquipmentManagementSystem&theme=tokyonight" />
 
-</a> 
-
+</a>
 
 <a href="https://github.com/SonNguyen25/DistributedKeyValueDatabase">
 
@@ -141,9 +152,10 @@ I specialize in the use of Java in Software Development and Python in AI/Data Sc
 
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=SonNguyen25&repo=kanbas-node-server-app&theme=tokyonight" />
 
-</a>  
+</a>
 
 ### Machine Learning
+
 <a href="https://github.com/SonNguyen25/VinBigData-Fraud-Detection">
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -157,18 +169,20 @@ I specialize in the use of Java in Software Development and Python in AI/Data Sc
 
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=SonNguyen25&repo=Identifying-Trends-in-Spotify&theme=tokyonight" />
 
-</a> 
+</a>
 
 ### Computer Vision
+
 <a href="https://github.com/SonNguyen25/mot_yolov8/">
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=SonNguyen25&repo=mot_yolov8&theme=tokyonight" />
 
-</a> 
+</a>
 
 ### Natural Language Processing
+
 <a href="https://github.com/SonNguyen25/BloomCausalLM-PromptTuning">
 	
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -178,14 +192,13 @@ I specialize in the use of Java in Software Development and Python in AI/Data Sc
 </a>
 
 ## Assignments 🌱
+
 - Web Crawler
 - Distributed, Replicated Key-Value Store utilizing Raft Consensus Algorithm
 - Marbles Solitaire Game using MVC Design and Design Patterns
 - Maze Generator - utilizing Union Find Kruskal's Algorithm
 
-
 ## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
-
 
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
@@ -198,4 +211,3 @@ I specialize in the use of Java in Software Development and Python in AI/Data Sc
   <br/>
   </p>
 </details>
-

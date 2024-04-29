@@ -192,7 +192,7 @@ I specialize in the use of Java/JavaScript in Software Development and Python in
 
 </a>
 
-### Computer Vision
+### Computer Vision & Natural Language Processing
 
 <a href="https://github.com/SonNguyen25/mot_yolov8/">
 
@@ -201,8 +201,6 @@ I specialize in the use of Java/JavaScript in Software Development and Python in
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=SonNguyen25&repo=mot_yolov8&theme=tokyonight" />
 
 </a>
-
-### Natural Language Processing
 
 <a href="https://github.com/SonNguyen25/BloomCausalLM-PromptTuning">
 	
